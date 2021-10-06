@@ -1,0 +1,6 @@
+Use these to test for better performance, some PCs prefer having the standard setting of "NormalPriority"
+and some MUCH prefer High.
+
+You can try any and all of these by simply clicking on the Reg and pressing "ok",
+this will then be applied next time you boot your game, see how it performs and if its good, keep it, if it stutters?
+Just apply the "normal priority" key again to revert it!
